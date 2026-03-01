@@ -31,6 +31,6 @@ Si deseas replicar este proyecto localmente:
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 **J. Muñoz -  S. Virguez - N. Rodríguez Estudiantes de Ingeniería en Informática - UNETI  
 [Tu perfil de GitHub](https://github.com/jmunozve)
