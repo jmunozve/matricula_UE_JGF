@@ -1,0 +1,48 @@
+[2025-08-26 15:39:26] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2025-08-26 15:59:49] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2025-08-26 16:01:52] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2025-08-26 16:05:20] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2025-08-26 17:39:59] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2025-08-26 17:41:03] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2025-08-26 17:42:11] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2025-08-26 17:44:13] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2025-08-26 20:21:13] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2025-08-26 20:23:16] | Estado: Fallido | Cédula: 10263986M | IP: ::1 | Motivo: Cédula inválida
+[2025-08-26 20:23:47] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2025-08-27 08:15:51] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2025-08-27 09:15:48] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2025-08-27 09:15:49] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2025-08-29 15:34:36] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2025-08-30 17:29:28] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2025-09-01 14:28:04] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2025-09-02 16:29:23] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2025-09-05 19:02:51] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2025-09-07 16:13:38] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2025-09-07 16:41:41] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2025-09-13 15:45:46] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2025-12-04 09:17:46] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2025-12-04 10:01:21] | Estado: Fallido | Cédula: 10263985 | IP: ::1 | Motivo: Contraseña inválida
+[2025-12-04 10:17:34] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2025-12-04 10:42:09] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2025-12-04 11:15:07] | Estado: Exitoso | Cédula: 10263985 | IP: ::1 | Motivo: Acceso permitido
+[2025-12-04 11:54:50] | Estado: Fallido | Cédula: msoraida@gmail.com | IP: ::1 | Motivo: Cédula inválida
+[2025-12-04 11:55:04] | Estado: Exitoso | Cédula: 10263985 | IP: ::1 | Motivo: Acceso permitido
+[2025-12-04 12:17:02] | Estado: Exitoso | Cédula: 10263985 | IP: ::1 | Motivo: Acceso permitido
+[2025-12-04 17:32:33] | Estado: Exitoso | Cédula: 10263985 | IP: ::1 | Motivo: Acceso permitido
+[2026-01-16 17:56:56] | Estado: Fallido | Cédula: 6176954 | IP: ::1 | Motivo: Contraseña inválida
+[2026-01-16 18:00:57] | Estado: Fallido | Cédula:  | IP: ::1 | Motivo: Cédula inválida
+[2026-01-16 18:01:13] | Estado: Fallido | Cédula: 6176954 | IP: ::1 | Motivo: Contraseña inválida
+[2026-01-16 18:14:49] | Estado: Fallido | Cédula: 6176954 | IP: ::1 | Motivo: Contraseña o usuario incorrecto
+[2026-01-16 18:15:28] | Estado: Fallido | Cédula: 6176954 | IP: ::1 | Motivo: Contraseña o usuario incorrecto
+[2026-01-16 18:16:57] | Estado: Fallido | Cédula: jmunozve@gmail.com | IP: ::1 | Motivo: Cédula inválida
+[2026-01-16 18:17:06] | Estado: Fallido | Cédula: 6176954 | IP: ::1 | Motivo: Error técnico: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_institucion.configuracion' doesn't exist
+[2026-01-16 18:17:09] | Estado: Fallido | Cédula: jmunozve@gmail.com | IP: ::1 | Motivo: Cédula inválida
+[2026-01-16 18:20:35] | Estado: Fallido | Cédula: 6176954 | IP: ::1 | Motivo: Error técnico: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_institucion.configuracion' doesn't exist
+[2026-01-16 18:23:41] | Estado: Fallido | Cédula: 6176954 | IP: ::1 | Motivo: Error técnico: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_institucion.configuracion' doesn't exist
+[2026-01-16 18:25:15] | Estado: Fallido | Cédula: 6176954 | IP: ::1 | Motivo: Error técnico: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_institucion.configuracion' doesn't exist
+[2026-01-16 18:37:15] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2026-01-16 18:38:53] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2026-01-16 18:48:52] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2026-01-16 20:20:50] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2026-01-16 20:22:20] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido
+[2026-01-16 20:25:12] | Estado: Exitoso | Cédula: 6176954 | IP: ::1 | Motivo: Acceso permitido

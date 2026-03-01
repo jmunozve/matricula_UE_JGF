@@ -1,0 +1,2 @@
+[2026-01-11 00:41:16] login.php ❌ Error de conexión PDO: SQLSTATE[HY000] [1049] Unknown database 'db_institucion'
+[2026-01-16 22:38:58] login.php ❌ Error de conexión PDO: SQLSTATE[HY000] [1049] Unknown database 'db_institucion'
